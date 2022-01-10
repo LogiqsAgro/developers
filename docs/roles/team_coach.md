@@ -27,17 +27,17 @@ connect to and collaborate with the software development teams.
  
 ### Your Profile
 
- * You are curious to find out what drives people and to explore their potential together.
+ * You are curious to find out what drives people and to explore what they can become.
  * You are honest in making transparent everything that matters 
    to growing the product, the team and the organization.
- * You are responsible in doing the right thing, even it is hard to the people involved.
+ * You are responsible; you do the right thing, even it is hard or scary.
  * You guide with kindness of heart.
  * You take pride in seeing others grow.
 
 ### What We Offer
 
- * We are a great place to work; and strive to become even better.
- * All the space you need to grow as a person and professional coach.
+ * A great place to work and the desire to get even better.
+ * All the space you need to grow as a person and as a professional coach.
  * A competitive salary.
  * A good pension plan.
  * 25 paid holidays and the option to buy more if you need them.

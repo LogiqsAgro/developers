@@ -56,7 +56,7 @@ You identify the quality level needed and adhere to it.
 ### What You Bring
 
  * A passion to program, analyze, test, to do what you do.
- * Ideally a skill or trait that [augments our current team](../apply.md#we-could-use-some-help-) 
+ * Ideally a skill or trait that [augments our current team](../apply.md#we-could-use-some-help-).
  * Your whole self.
 
 ## Want to join?

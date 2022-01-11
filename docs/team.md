@@ -17,6 +17,6 @@ Our team, in order of appearance:
 
 Honorable mention
 
- * Koen (currently part of our R&D farm team)
+ * Koen (currently part of our R&D team)
 
 Suppported by Marijn & Gert-Jan.

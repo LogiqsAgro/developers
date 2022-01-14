@@ -2,7 +2,7 @@
 layout: developer
 full_name: Chiara Di Leo
 role: Product Owner
-linkedin_url: www.linkedin.com/in/chiara-di-leo-19374b90
+linkedin_url: https://www.linkedin.com/in/chiara-di-leo-19374b90
 github_url:
 img_url: ../assets/img/chiara.jpeg
 stackoverflow_url:

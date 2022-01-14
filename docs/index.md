@@ -11,7 +11,7 @@ We accelerate access to honest food by delivering software that makes the world 
 
 We are a team of kind people that care about the world, our users and each other. We build software we can be proud of. We are curious to better understand what our users need. We are curious to uncover better ways of delivering software. We are honest in assessing where we currently stand. We are responsible to adapt our behavior accordingly.
 
- * [meet the team](team.md)
+ * [Meet the People](people.md)
 
 ## Want to join?
 

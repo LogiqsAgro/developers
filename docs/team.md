@@ -11,7 +11,7 @@ Our team, in order of appearance:
  * Maarten
  * Sjors
  * Melvin
- * Daria
+ * [Daria](./team/daria.md)
  * Mick
  * Chiara
 

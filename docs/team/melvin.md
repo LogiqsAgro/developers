@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: developer
 full_name: Melvin Ducaneaux
 role: Developer
 linkedin_url: https://www.linkedin.com/in/melvin-ducaneaux-a6041044/
@@ -15,26 +15,5 @@ professional_interests:
     .NET, C#, DDD, Microservices, Azure
 ---
 
-## {{ page.full_name }} ({{ page.role }})
 
-<img src="{{ page.img_url }}" class="developer-photo" width="150px" />
-
-> {{ page.praise }}
->
-> -- What my team-mates say about me
-
-### Professional interests
-
-{{ page.professional_interests }}
-
-### Social
-
- * [LinkedIn]({{ page.linkedin_url }})
- * [Github]({{ page.github_url }})
-
-### About working at Logiqs
-
-> What I like about working at Logiqs:
-> {{ page.about_working_at_logiqs }}
->
-> -- {{ page.full_name }}
+<!-- Add additional content here, you can use Markdown. -->

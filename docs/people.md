@@ -22,5 +22,5 @@ Our team:
  * Marino
  * Jeroen
 
-Suppported by Marijn & Gert-Jan.
+Suppported by [Marijn](https://www.linkedin.com/in/marijnvanderzee/) & [Gert-Jan](https://www.linkedin.com/in/gert-jan-van-staalduinen-30b2aab/).
 

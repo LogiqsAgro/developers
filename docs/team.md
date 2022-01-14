@@ -17,10 +17,10 @@ Our team:
  * Rob L
  * Rob E
  * Maarten
- * Sjors
  * Mick
-
- * Koen (currently part of our R&D team)
+ * Koen
+ * Marino
+ * Jeroen
 
 Suppported by Marijn & Gert-Jan.
 

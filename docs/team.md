@@ -10,7 +10,7 @@ Our team, in order of appearance:
  * Rob E
  * Maarten
  * Sjors
- * Melvin
+ * [Melvin](./team/melvin.md)
  * [Daria](./team/daria.md)
  * Mick
  * Chiara

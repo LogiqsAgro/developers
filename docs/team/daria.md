@@ -5,31 +5,38 @@ role: Software Developer
 linkedin_url: https://www.linkedin.com/in/daria-kosenko-54943220/
 github_url: https://github.com/dkosenko
 img_url: ../assets/img/daria.jpeg
+praise: 
+    She never gives up; is trying to solve anything herself first; knowledgeable; 
+    has sense of humor; don’t talk a lot, but provides valuable remarks when needed;
+    focused on results and swift delivery;
+    offers valuable critisizm and support at the right moments.
+about_working_at_logiqs: 
+    Complex multifaceted challenging product; 
+    Innovative technologies; Warm friendly inclusive environment
+professional_interests: 
+    .Net, C#, Python, Agile/Scrum
 ---
 
 ## {{ page.full_name }} ({{ page.role }})
 
 <img src="{{ page.img_url }}" class="developer-photo" width="150px" />
 
-> She never gives up; is trying to solve anything herself first; knowledgeable; 
-> has sense of humor; don't talk a lot, but provides valuable remarks when needed; 
-> focused on results and swift delivery;
-> offers valuable critisizm and support at the right moments.
+> {{ page.praise }}
 >
 > -- Daria's team-mates
 
 ### Professional interests
 
-.Net, C#, Python, Agile/Scrum
+{{ page.professional_interests }}
 
 ### Social
 
- * [LinkedIn]({{ linkedin_url }})
- * [Github]({{ github_url }})
+ * [LinkedIn]({{ page.linkedin_url }})
+ * [Github]({{ page.github_url }})
 
 ### About working at Logiqs
 
 > What I like about working at Logiqs:
-> Complex multifaceted challenging product; Innovative technologies; Warm friendly inclusive environment
+> {{ page.about_working_at_logiqs }}
 >
 > -- Daria

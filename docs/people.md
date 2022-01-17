@@ -14,7 +14,6 @@ Our team:
 </ul>
 
  * Remco
- * Rob L
  * Rob E
  * Maarten
  * Mick

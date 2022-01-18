@@ -13,10 +13,8 @@ Our team:
 {% endfor %}
 </ul>
 
- * Remco
  * Rob E
  * Maarten
- * Mick
  * Koen
  * Marino
  * Jeroen

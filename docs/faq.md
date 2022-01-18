@@ -48,7 +48,7 @@ For data science and AI, we are Python oriented.
 We deploy to Windows Server and Raspberry PI. We have Windows Forms clients and web clients. 
 Other keywords that might ring a bell: SQL Server, RavenDB, ELK, NHibernate, MassTransit, RabbitMQ, WCF.
 
-We are always curious about new exploring new technologies.
+We are always curious about exploring new technologies.
 
 ### Process
 
@@ -66,4 +66,4 @@ All teams use an agile development process.
 
 Long story short: several times a week.
 We have a hard time to keep all our customers up-to-date with a recent version of our software.
-We are actively working on improving this and could use in help in terms continuous delivery and quality assurance.
+We are actively working on improving this and could use help in continuous delivery and quality assurance.

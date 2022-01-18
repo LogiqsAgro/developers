@@ -13,7 +13,6 @@ Our team:
 {% endfor %}
 </ul>
 
- * Rob E
  * Maarten
  * Koen
  * Marino

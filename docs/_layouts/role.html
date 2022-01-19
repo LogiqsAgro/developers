@@ -19,7 +19,7 @@ who specializes in {{ page.specialization }}.
 
 ### Your tools
 
-<ul>
+<ul class="tag-cloud">
   {% for tag in page.tag_cloud %} 
   <li> <a href="https://stackoverflow.com/questions/tagged/{{ tag | url_encode }}">{{ tag }}</a></li>
   {% endfor %}

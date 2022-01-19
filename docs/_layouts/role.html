@@ -11,6 +11,15 @@ who specializes in {{ page.specialization }}.
 
 {{ content }}
 
+### Your tools
+
+<ul>
+  {% for tag in page.tag_cloud %} 
+  <li> <a href="https://stackoverflow.com/questions/tagged/{{ tag | url_encode }}">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
+
+
 ### Role
 
 As part of a small software development team,

@@ -8,6 +8,7 @@ spotlight: true
 
 ## Team Coach
 
+---
 <!-- Add Logiqs introduction -->
 
 ### Role
@@ -27,7 +28,9 @@ and product planning suitable to the team's context.
 
 You serve the organization by helping people
 connect to and collaborate with the software development teams.
- 
+
+---
+
 ### Your Profile
 
  * You are curious to find out what drives people and to explore what they can become.

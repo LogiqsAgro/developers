@@ -19,13 +19,16 @@ who specializes in {{ page.specialization }}.
 
 ### Your tools
 
-<ul class="tag-cloud">
+<ul class="tag-cloud" style="-moz-column-count: 4;
+-moz-column-gap: 20px;
+-webkit-column-count: 4;
+-webkit-column-gap: 20px;
+column-count: 4;
+column-gap: 20px;">
   {% for tag in page.tag_cloud %} 
   <li> <a href="https://stackoverflow.com/questions/tagged/{{ tag | url_encode }}">{{ tag }}</a></li>
   {% endfor %}
 </ul>
-
----
 
 ### Role
 
@@ -38,6 +41,8 @@ You create a plan with your team,
 inspect progress towards its goals,
 and adapt the plan accordingly.
 You identify the quality level needed and adhere to it. 
+
+---
 
 ### Your Profile
 

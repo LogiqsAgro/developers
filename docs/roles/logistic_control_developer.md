@@ -2,6 +2,8 @@
 layout: role
 role: Logistic Control Developer
 specialization: developing logistic control algorithms
+vacancy: true
+spotlight: false
 tag_cloud:
 - c#
 - simulation

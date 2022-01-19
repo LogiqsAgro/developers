@@ -1,0 +1,7 @@
+<ul>
+    {% for page in site.pages %} 
+    {% if page.vacancy %}
+    <li> <a href="{{ page.url | absolute_url }}">{{ page.role }}</a> - You love {{ page.specialization }}.</li>
+    {% endif %} 
+    {% endfor %}
+</ul>

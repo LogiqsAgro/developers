@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Software Development Team Coach
+role: Software Development Team Coach
+specialization: coaching people in and around software teams
+vacancy: true
+spotlight: true
 ---
 
 ## Team Coach

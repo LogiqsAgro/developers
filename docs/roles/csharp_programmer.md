@@ -2,6 +2,8 @@
 layout: role
 role: C# Programmer
 specialization: programming C#
+vacancy: true
+spotlight: false
 tag_cloud:
 - c#
 - .net

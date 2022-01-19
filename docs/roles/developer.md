@@ -2,6 +2,8 @@
 layout: role
 role: Developer
 specialization: delivering software and being an awesome team member
+vacancy: true
+spotlight: true
 tag_cloud:
 - c#
 - .net

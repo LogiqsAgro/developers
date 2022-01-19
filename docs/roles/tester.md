@@ -2,6 +2,8 @@
 layout: role
 role: Tester
 specialization: testing
+vacancy: true
+spotlight: true
 tag_cloud:
 - testing
 - exploratory-testing

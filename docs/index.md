@@ -26,6 +26,10 @@ We are a team of kind people that care about the world, our users and each other
 
 <img src="./assets/img/values_at_logiqs.png" width="250px">
 
+## Vacancies
+
+{% include vacancies.html %}
+
 ## Want to join?
 
 If you want to join us on our mission and our core values resonate with you, then please get in touch. 

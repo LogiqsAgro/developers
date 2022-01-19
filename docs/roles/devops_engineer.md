@@ -2,6 +2,8 @@
 layout: role
 role: DevOps Engineer
 specialization: continuous delivery and the infrastructure to support it
+vacancy: true
+spotlight: false
 tag_cloud:
 - continuous-delivery
 - azure

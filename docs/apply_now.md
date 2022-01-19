@@ -5,7 +5,7 @@ title: Apply Now!
 
 ## Apply Now
 
-Jump to our recruitment site to apply for one of the foll0wing positions:
+Jump to our recruitment site to apply for one of the following positions:
 
  * [Developer](./roles/developer.md) -
     You deploy, test, program, design, analyze and/or support running our software.

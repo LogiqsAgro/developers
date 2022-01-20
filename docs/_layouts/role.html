@@ -19,12 +19,7 @@ who specializes in {{ page.specialization }}.
 
 ### Your tools
 
-<ul class="tag-cloud" style="-moz-column-count: 4;
--moz-column-gap: 20px;
--webkit-column-count: 4;
--webkit-column-gap: 20px;
-column-count: 4;
-column-gap: 20px;">
+<ul class="tag-cloud">
   {% for tag in page.tag_cloud %} 
   <li> <a href="https://stackoverflow.com/questions/tagged/{{ tag | url_encode }}">{{ tag }}</a></li>
   {% endfor %}
@@ -65,6 +60,7 @@ You identify the quality level needed and adhere to it.
    to make sure that it is of the required quality.
    You responsibly and continuously improve your codebases.
 
+<img src="{{'../assets/img/values_at_logiqs.png' | relative_url | absolute_url}}" width="250px">
 
 ### What We Offer
 

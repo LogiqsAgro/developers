@@ -4,6 +4,19 @@ role: Software Development Team Coach
 specialization: coaching people in and around software teams
 vacancy: true
 spotlight: true
+tag_cloud:
+- silent-listening
+- scrum
+- agile
+- crucial-conversations
+- liberating-structures
+- retrospective
+- facilitation
+- product-development-coaching
+- visualization
+- humble-inquiry
+- kanban
+- kaizen-kaikaku
 ---
 
 ## Team Coach
@@ -29,6 +42,18 @@ and product planning suitable to the team's context.
 You serve the organization by helping people
 connect to and collaborate with the software development teams.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/95hncbPMOrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Your tools
+
+<ul class="tag-cloud">
+  {% for tag in page.tag_cloud %} 
+  <li> <a href="https://www.google.com/search?q={{ tag | url_encode }}">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
+
 ---
 
 ### Your Profile
@@ -39,6 +64,9 @@ connect to and collaborate with the software development teams.
  * You are responsible; you do the right thing, even it is hard or scary.
  * You guide with kindness of heart.
  * You take pride in seeing others grow.
+
+<img src="{{'../assets/img/values_at_logiqs.png' | relative_url | absolute_url}}" width="250px">
+
 
 ### What We Offer
 

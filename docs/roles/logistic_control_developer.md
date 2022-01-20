@@ -12,6 +12,6 @@ tag_cloud:
 - data-science
 ---
 
-Designs and develops logistic control algorithms.
-Validates logistic assumptions using simulation.
-Collects data from our systems and analyzes it to improve our control software.
+You design and develop logistic control algorithms.
+You validates logistic assumptions using simulation.
+You collect data from our systems and analyzes it to improve our control software.

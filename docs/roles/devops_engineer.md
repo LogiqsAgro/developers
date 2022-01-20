@@ -13,8 +13,8 @@ tag_cloud:
 - python
 ---
 
-Ensure stable, secure, reliable and fast infrastructure 
+Your work ensures stable, secure, reliable and fast infrastructure 
 to build, test, deploy, run and monitor our software products.
-Help our IT department as well as our customers' 
-define and implement the appropriate infrastructure.
-Make sure we can continuously deliver our latest software to our customers.
+You help our IT department as well as our customers' 
+to define and implement the appropriate infrastructure.
+You make sure we can continuously deliver our latest software to our customers.

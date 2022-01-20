@@ -27,10 +27,13 @@ jobs:
       # use Ruby, no need to specify a version, because we have a .ruby-version
       - uses: ruby/setup-ruby@477b21f02be01bcb8030d50f37cfec92bfa615b6
       # Runs a single command using the runners shell
-      - name: Build and test
+      - name: Bootstrap
         run: | 
           cd docs
           make bootstrap
+      - name: Build and test
+        run: |
+          cd docs
           make test
           echo Done.
 

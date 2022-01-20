@@ -4,7 +4,7 @@ full_name:
 role: 
 linkedin_url: 
 github_url:
-img_url: ../assets/img/__name__.png
+img_url: ../assets/img/values_at_logiqs.png
 stackoverflow_url:
 praise: 
     praise

@@ -32,7 +32,7 @@ jobs:
           cd docs
           make bootstrap
       - name: Build and test
-      - run: |
+        run: |
           make test
           echo Done.
 

@@ -20,6 +20,7 @@ tag_cloud:
 - rabbitmq
 - rest-api
 - mqtt
+- raspberry-pi
 ---
 
 You appreciate both general and specialized skills,

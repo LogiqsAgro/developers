@@ -87,12 +87,14 @@ connect to and collaborate with the software development teams.
  * Knowledge on product development techniques, team development, 
    personal development and organizational growth.
 
+---
+
 ## Want to join?
 
 If you want to join us on our mission and our core values resonate with you, then please get in touch. 
 
- * [Apply Now](https://recruitment.logiqs.nl/open-application/)
+ * [Apply Now](https://logiqs.recruitee.com/o/software-development-team-coach)
  * [How to Apply](../apply.md)
- * [Our Recruitment Website](https://recruitment.logiqs.nl/)
+ * [Our Recruitment Website]({{ site.data.urls.recruitment_site }})
  * [FAQ](../faq.md)
 

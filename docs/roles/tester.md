@@ -4,6 +4,7 @@ role: Tester
 specialization: testing
 vacancy: true
 spotlight: true
+recruitee_url: https://logiqs.recruitee.com/o/sofware-developer
 tag_cloud:
 - testing
 - exploratory-testing

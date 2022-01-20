@@ -4,6 +4,7 @@ role: DevOps Engineer
 specialization: continuous delivery and the infrastructure to support it
 vacancy: true
 spotlight: false
+recruitee_url: https://logiqs.recruitee.com/o/sofware-developer
 tag_cloud:
 - continuous-delivery
 - azure

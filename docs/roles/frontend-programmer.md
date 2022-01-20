@@ -4,6 +4,7 @@ role: Front-End C# Programmer
 specialization: programming C#
 vacancy: true
 spotlight: false
+recruitee_url: https://logiqs.recruitee.com/o/sofware-developer
 tag_cloud:
 - HTML/CSS
 - Javascript

@@ -11,5 +11,5 @@ Check out our vacancies to apply for one of the following positions:
 
 Or:
  
- * [Open application](https://recruitment.logiqs.nl/open-application/) -
+ * [Open application]({{ site.data.urls.open_application }}) -
     You do what you do, we just don't have a role for it yet.

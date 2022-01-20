@@ -1,5 +1,5 @@
 ---
-layout: R&D Control engineer
+layout: developer
 full_name: Jeroen Crompvoets
 role: Control engineer/ Data scientist
 linkedin_url: https://www.linkedin.com/in/jeroen-crompvoets-26446612a/

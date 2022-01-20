@@ -16,7 +16,6 @@ Our team:
  * Maarten
  * Koen
  * Marino
- * Jeroen
 
 Supported by [Marijn](https://www.linkedin.com/in/marijnvanderzee/) & [Gert-Jan](https://www.linkedin.com/in/gert-jan-van-staalduinen-30b2aab/).
 

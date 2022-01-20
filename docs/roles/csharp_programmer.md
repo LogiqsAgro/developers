@@ -10,6 +10,7 @@ tag_cloud:
 - .net-core
 - design
 - refactoring
+- raspberry-pi
 ---
 
 You write readable and maintainable C# code targeting the .NET framework.

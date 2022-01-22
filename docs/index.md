@@ -36,5 +36,5 @@ If you want to join us on our mission and our core values resonate with you, the
 
  * [Apply Now](apply_now.md)
  * [How to Apply](apply.md)
- * [Our Recruitment Website](https://recruitment.logiqs.nl/)
+ * [Our Recruitment Website]({{ site.data.urls.recruitment_site }})
  * [FAQ](faq.md)

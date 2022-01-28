@@ -64,6 +64,8 @@ Logiqs B.V.
 
 ### Reason: no connection with purpose and/or values
 
+Specifically, we're looking for a candidate with a clear connection to our company's purpose and values. From your application as well as my follow-up questions that did not become apparent.
+
 ### Follow-up
 
 We would like to consider you for future opportunities if you're interested. We also encourage you to apply for any open positions that fit your qualifications.

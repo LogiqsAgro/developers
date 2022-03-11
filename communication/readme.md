@@ -52,7 +52,7 @@ Mostly based on a great post on writing kind and honest rejection letters found 
 Dear [Candidate name],
 
 Thank you for applying for our open [job] position. 
-We appreciate the time you took to [submit an application or come in for an interview].
+We appreciate the time you took to submit an application .
 
 We have decided to move forward with other candidates at this time. Specifically, we're looking for a candidate with [specific qualification]. However, your [one or two qualities] are impressive. [You can include a second sentence that describes another quality that you liked.]
 
@@ -66,6 +66,21 @@ Logiqs B.V.
 
 Specifically, we're looking for a candidate with a clear connection to our company's purpose and values. From your application as well as my follow-up questions that did not become apparent.
 
+### Reason: other candidates with stronger connection to purpose and/or values
+
+Specifically, we're looking for a candidate with a clear connection to our company's purpose and values.
+Other candidates scored better in that regard.
 ### Follow-up
 
 We would like to consider you for future opportunities if you're interested. We also encourage you to apply for any open positions that fit your qualifications.
+
+## Short pitches
+
+### Connection request on LinkedIn
+
+Hi there ___,
+We're hiring developers here at Logiqs. 
+Are you honest, kind, curious, proud and responsible like we are?
+Do you want to join us to accelerate access to honest by developing beautiful software?
+Then let's connect!
+https://logiqs.recruitee.com/l/en/o/software-developer

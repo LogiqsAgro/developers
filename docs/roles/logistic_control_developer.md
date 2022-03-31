@@ -4,7 +4,7 @@ role: Logistic Control Developer
 specialization: developing logistic control algorithms
 vacancy: true
 spotlight: false
-recruitee_url: https://logiqs.recruitee.com/o/sofware-developer
+recruitee_url: https://logiqs.recruitee.com/l/en/o/logistic-control-developer
 tag_cloud:
 - c#
 - simulation
@@ -14,5 +14,5 @@ tag_cloud:
 ---
 
 You design and develop logistic control algorithms.
-You validates logistic assumptions using simulation.
-You collect data from our systems and analyzes it to improve our control software.
+You validate logistic assumptions using simulation.
+You collect data from our systems and analyze it to improve our control software.

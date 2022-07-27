@@ -7,7 +7,7 @@ spotlight: false
 recruitee_url: 
 tag_cloud:
 - service
-- customeroriented
+- customer oriented
 - improvement oriented
 - database migration
 - software updates

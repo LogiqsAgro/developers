@@ -23,3 +23,8 @@ To the Software Team you act as an important stakeholder because you can indicat
 You will categorize requests, find trends and point out where product improvements will have the most impact on reducing support requests. 
 
 You will be our driving force for improvements.
+
+## Your other skills
+
+* Dutch and English are comfortable to you. ( German language skills are a bonus )
+* Good understanding of Windows and how to gather system information for bug reports

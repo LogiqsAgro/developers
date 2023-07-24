@@ -13,8 +13,7 @@ Our team:
 {% endfor %}
 </ul>
 
- * Maarten
  * Koen
 
-Supported by [Marijn](https://www.linkedin.com/in/marijnvanderzee/) & [Gert-Jan](https://www.linkedin.com/in/gert-jan-van-staalduinen-30b2aab/).
+Supported by [Remco Schoeman](https://www.linkedin.com/in/remco-schoeman-07470417/) & [Gert-Jan](https://www.linkedin.com/in/gert-jan-van-staalduinen-30b2aab/).
 

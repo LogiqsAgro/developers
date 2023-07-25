@@ -2,7 +2,7 @@
 layout: default
 role: Software Development Team Coach
 specialization: coaching people in and around software teams
-vacancy: true
+vacancy: false
 spotlight: true
 tag_cloud:
 - silent-listening

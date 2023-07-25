@@ -2,7 +2,7 @@
 layout: role
 role: Developer
 specialization: delivering software and being an awesome team member
-vacancy: true
+vacancy: false
 spotlight: true
 recruitee_url: https://logiqs.recruitee.com/o/sofware-developer
 tag_cloud:

@@ -2,7 +2,7 @@
 layout: role
 role: Front-End C# Programmer
 specialization: programming C#
-vacancy: true
+vacancy: false
 spotlight: false
 recruitee_url: https://logiqs.recruitee.com/o/sofware-developer
 tag_cloud:

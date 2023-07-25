@@ -2,7 +2,7 @@
 layout: role
 role: DevOps Engineer
 specialization: continuous delivery and the infrastructure to support it
-vacancy: true
+vacancy: false
 spotlight: false
 recruitee_url: https://logiqs.recruitee.com/o/sofware-developer
 tag_cloud:

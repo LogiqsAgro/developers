@@ -3,7 +3,7 @@ layout: role
 role: Support Engineer
 specialization: Software Supprt
 vacancy: true
-spotlight: false
+spotlight: true
 recruitee_url: 
 tag_cloud:
 - service

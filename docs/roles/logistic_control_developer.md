@@ -2,7 +2,7 @@
 layout: role
 role: Logistic Control Developer
 specialization: developing logistic control algorithms
-vacancy: true
+vacancy: false
 spotlight: false
 recruitee_url: https://logiqs.recruitee.com/l/en/o/logistic-control-developer
 tag_cloud:

@@ -1,7 +1,7 @@
 ---
 layout: role
 role: Support Engineer
-specialization: Software Supprt
+specialization: Software Support
 vacancy: true
 spotlight: true
 recruitee_url: 
